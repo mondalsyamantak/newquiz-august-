@@ -1,8 +1,3 @@
-hehe nobody cares
-its sad
-very sad
-anyway idc either
---------------------------------------------------------------------------------
 ### Script for Presentation
 
 #### Slide 1: Introduction to Quizzipedia
